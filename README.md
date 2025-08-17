@@ -1,2 +1,2 @@
 # aula-algoritmo
-algoritmos | java | node
+algoritmos | javascript | node
